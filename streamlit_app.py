@@ -79,6 +79,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[2] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"]},
     labels[3] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230803/gv20000714335_1.jpg"]},
 
+}
+
 # ======================
 # 유틸
 # ======================
